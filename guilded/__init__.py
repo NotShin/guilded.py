@@ -14,6 +14,6 @@ __title__ = 'guilded'
 __author__ = 'NotShin'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2020-2021 NotShin'
-__version__ = '0.0.4'
+__version__ = '0.0.4a'
 
 from .client import *
