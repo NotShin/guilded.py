@@ -17,7 +17,7 @@ setup(
   description='A Python wrapper for the Guilded API',
   long_description=open('README.rst').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type='text/x-rst',
-  url='',  
+  url='https://github.com/NotShin/guilded.py',
   author='NotShin',
   license='MIT',
   python_requires='>=3.5.3',
