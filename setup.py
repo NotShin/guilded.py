@@ -13,7 +13,7 @@ classifiers = [
 
 setup(
   name='guilded',
-  version='0.0.4a',
+  version='0.0.4',
   description='A Python wrapper for the Guilded API',
   long_description=open('README.rst').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type='text/x-rst',
